@@ -9,19 +9,19 @@
     "description": "A simple and mobile-friendly to-do list app using IndexedDB.",
     "icons": [
       {
-        "src": "icons/todo-48.png",
+        "src": "icons/todo.jpg",
         "sizes": "48x48",
-        "type": "image/png"
+        "type": "image/jpg"
       },
       {
-        "src": "icons/todo-96.png",
+        "src": "icons/todo.jpg",
         "sizes": "96x96",
-        "type": "image/png"
+        "type": "image/jpg"
       },
       {
-        "src": "icons/todo-192.png",
+        "src": "icons/todo.jpg",
         "sizes": "192x192",
-        "type": "image/png"
+        "type": "image/jpg"
       }
     ]
   }
